@@ -4,7 +4,7 @@
  benjamin branch edit
  master branch edit again
 
- benjamin2 branch edit
+ benjamin2 branch edit - bug-fixed
 
  master commit after benjamin2
 
